@@ -25,6 +25,7 @@ author:
 pages_list:
   About: '/about'
   Contact: '/contact'
+  Archive: '/archive'
   Feed: '/atom.xml'
 
 # Plugins

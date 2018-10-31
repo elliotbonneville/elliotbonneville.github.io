@@ -1,12 +1,6 @@
 <form class="contact-form" action="https://formspree.io/elliot.bonneville@gmail.com" method="POST">
-  <div>
-    <input type="email" name="_replyto" placeholder="Email address" required>
-  </div>
-  <div>
-    <input type="text" name="_subject" placeholder="Subject" required>
-  </div>
-  <div class="email-body">
-      <textarea placeholder="What's up?" name="body" required></textarea>
-  </div>
+  <input type="email" name="_replyto" placeholder="Email address" required autocomplete="off">
+  <input type="text" name="_subject" placeholder="Subject" required autocomplete="off">
+  <textarea placeholder="What's up?" name="body" required></textarea>
   <input type="submit" value="Submit">
 </form>

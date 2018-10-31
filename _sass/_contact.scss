@@ -1,8 +1,7 @@
 .contact-form {
-  width: 100%;
-
   :focus {
-	outline: 0;
+    outline: 0;
+    box-shadow: 0px 0px 2px 1px $blue;
   }
 
   textarea, input:not([type="submit"]) {
@@ -15,10 +14,7 @@
     padding: 20px;
     color: #717171;
     background-color: #f9f9f9;
-  }
-
-  .email-body {
-    width: 100%;
+	transition: box-shadow 0.2s;
   }
 
   textarea {
@@ -41,7 +37,7 @@
   }
 
   input[type="submit"]:hover {
-    background: $green;
+    background: $blue;
 	color: $gray-1;
   }
 }
