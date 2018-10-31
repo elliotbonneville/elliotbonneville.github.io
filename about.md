@@ -3,12 +3,16 @@ layout: page
 title: About
 ---
 
-Welcome to Coding Panther, where Elliot Bonneville writes about his life.
+Welcome to Coding Panther, where Elliot Bonneville writes about code, mindset, lifestyle, the existence of a JavaScript consultant, and anything else he feels like sharing with the general public.
 
-He is currently an entrepreneurially minded JavaScript consultant who works through his company [Panther Contracting](https://www.panthercontracting.com).
+He is currently available for work through his company [Panther Contracting](https://www.panthercontracting.com).
 
-He is comfortable writing about himself in the third person. He enjoys writing, reading, music, and of course -- coffee, coding, and cats.
+He is comfortable writing about himself in the third person. He enjoys writing, reading, music, and of course -- coffee, coding, and cats. 🐈
 
-This blog serves as a catch-all for his musings on code, mindset, lifestyle, the existence of a consultant, and anything else he feels like sharing with the general public.
+Obligatory social media profiles:
 
+- [Stack Overflow](https://stackoverflow.com/users/339852/elliot-bonneville)
+- [Twitter](https://twitter.com/elliotbnvl)
+- [Facebook](https://facebook.com/elliotbnvl)
+- [LinkedIn](https://linkedin.com/in/elliotbonneville)
 
