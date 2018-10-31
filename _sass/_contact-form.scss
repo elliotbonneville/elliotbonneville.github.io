@@ -1,0 +1,47 @@
+.contact-form {
+  width: 100%;
+
+  :focus {
+	outline: 0;
+  }
+
+  textarea, input:not([type="submit"]) {
+    width: 100%;
+    font-family: $root-font-family;
+    font-size: $root-font-size;
+    border: 0px;
+    margin-bottom: 1rem;
+    height: 1.5rem;
+    padding: 20px;
+    color: #717171;
+    background-color: #f9f9f9;
+  }
+
+  .email-body {
+    width: 100%;
+  }
+
+  textarea {
+    height: 250px;
+    resize: vertical;
+  }
+
+  input[type="submit"] {
+    padding: 1rem;
+	background: #f9f9f9;
+	color: #717171;
+	cursor: pointer;
+	border-radius: 0;
+	border: none;
+	font-family: $root-font-family;
+	font-size: $root-font-size;
+    transition: 0.2s;
+	float: right;
+	display: inline-block;
+  }
+
+  input[type="submit"]:hover {
+    background: $green;
+	color: $gray-1;
+  }
+}

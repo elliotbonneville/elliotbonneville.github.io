@@ -24,7 +24,7 @@ author:
 # Custom vars
 pages_list:
   About: '/about'
-  Archive: '/archive'
+  Contact: '/contact'
   Feed: '/atom.xml'
 
 # Plugins
