@@ -16,6 +16,8 @@ Obligatory social media profiles:
 - [Facebook](https://facebook.com/elliotbnvl)
 - [LinkedIn](https://linkedin.com/in/elliotbonneville)
 
+You can also reach me via email: elliot.bonneville@gmail.com
+
 P.S. _Why_ Coding Panther? Well... a panther is a cat. A big, black cat. Elliot loves cats, and the color black, so it kind of seemed like an obvious choice.
 
 P.P.S. ...and all the other cool domains were taken.
