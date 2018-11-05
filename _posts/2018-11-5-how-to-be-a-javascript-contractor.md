@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Be a JavaScript Contractor
+title: How To Be a JavaScript Contractor
 comments: true
 permalink: how-to-be-a-javascript-contractor
 ---
