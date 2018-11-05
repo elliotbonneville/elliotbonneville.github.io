@@ -39,11 +39,11 @@ The goal is different, now. I've come to realize through exposure to several dif
 
 If the future were a person, it would probably be holding a taco. 🌮 Tacos are great. I love tacos. (Not as much as I love cats, though.)
 
+> To be free, you need to unlock your time worked from your dollars made.
+
 However, the future is not a person, so, to be honest, I have no idea what it holds. My plans, however, are pretty straightforward: make money using the development skills and experience that I've picked up over the past ten or so years.
 
 I've learned since I took that first contracting job, though, that freedom is deceptive. Working a 9-5 is certainly not free. Being a freelance contractor, however fun that might sound, is also not free. To be free, you need to unlock your time worked from your dollars made. 🔓
-
-> To be free, you need to unlock your time worked from your dollars made.
 
 Right now, I'm still trying to figure out what that looks like, from a business perspective. I'm considering a few options.
 
