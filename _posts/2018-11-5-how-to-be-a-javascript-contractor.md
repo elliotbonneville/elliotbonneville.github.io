@@ -29,7 +29,7 @@ But after I joined that second, larger startup, I started slacking. I stopped po
 
 ## Where am I now?
 
-But after I did that, I lost any audience that I had unintentionally built up over time. People almost completely stopped contacting me as my profiles went dormant, and I haven't had a single job offer in the last couple of years except through people I've already done work for in the past. Which was fine, of course, since I was head down on the project for that startup -- great fun -- but now that I've moved on looking for bigger and newer problems to solve, is... problematic.
+But after I did that, I lost any audience that I had unintentionally built up over time. People almost completely stopped contacting me as my profiles went dormant, and I haven't had a single job offer in the last couple of years except through people I've already done work for in the past. Which was fine, of course, since I was head down on the project for that startup -- great fun -- but now that I've moved on looking for bigger and newer problems to solve, it's... problematic.
 
 That is, of course, why I started this blog in the first place -- to intentionally build back up the same sort of audience and reputation that I'd unintentionally done years ago.
 
@@ -42,6 +42,8 @@ If the future were a person, it would probably be holding a taco. 🌮 Tacos are
 However, the future is not a person, so, to be honest, I have no idea what it holds. My plans, however, are pretty straightforward: make money using the development skills and experience that I've picked up over the past ten or so years.
 
 I've learned since I took that first contracting job, though, that freedom is deceptive. Working a 9-5 is certainly not free. Being a freelance contractor, however fun that might sound, is also not free. To be free, you need to unlock your time worked from your dollars made. 🔓
+
+> To be free, you need to unlock your time worked from your dollars made.
 
 Right now, I'm still trying to figure out what that looks like, from a business perspective. I'm considering a few options.
 
