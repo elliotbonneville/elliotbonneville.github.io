@@ -15,6 +15,7 @@ Obligatory social media profiles:
 - [Twitter](https://twitter.com/elliotbnvl)
 - [Facebook](https://facebook.com/elliotbnvl)
 - [LinkedIn](https://linkedin.com/in/elliotbonneville)
+- [GitHub](https://github.com/elliotbonneville)
 
 You can also reach me via email: elliot.bonneville@gmail.com
 
