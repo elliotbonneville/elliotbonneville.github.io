@@ -28,4 +28,4 @@ Just remember that one day you will die, and that you will be remembered by the 
 
 Is your work up to your standards? Is what you're doing right now truly worth spending your ever-decreasing time in this mortal coil on? If you can't answer these questions with a confident yes, change something.
 
-_Memento mori_, my friends.
+_Memento mori_.
