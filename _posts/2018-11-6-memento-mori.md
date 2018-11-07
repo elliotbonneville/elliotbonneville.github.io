@@ -5,7 +5,7 @@ comments: true
 permalink: memento-mori-remember-your-death
 ---
 
-Memento mori. Latin. Literally, "remember your death."
+_Memento mori_. Latin. Literally, "remember your death."
 
 Underneath a relatively nondescript church near the Piazza Barberini in Rome lie several tiny chapels lined with the bones of over 3,700 Capuchin monks, buried by their order between the years 1528 and 1870. Collectively, these chapels are known as the Capuchin Crypt.
 
