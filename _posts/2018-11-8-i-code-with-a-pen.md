@@ -15,7 +15,7 @@ But when I do, I have one tried-and-true solution to allow my brain to unwind an
 
 <!--break-->
 
-Then I pull out my trusty pen and notebook. There's something about the solidity and physicality of a pen in my hand and a piece of paper to write on that allows me to zoom out to ten thousand feet. It pulls me away from short-term concerns and puts the focus where it needs to be: on the larger scale problem, the architectural issue that is the real source of the problem.
+Then I pull out my trusty pen and notebook. There's something about the solidity and physicality of a pen in my hand and a piece of paper to write on that allows me to zoom out to ten thousand feet. It pulls me away from short-term concerns and puts the focus where it needs to be: on the larger scale design flaw, the architectural issue that is the real source of the confusion.
 
 The first thing that happens is that I'll end up thinking through the entire solution before getting too invested in building any one part of it. This means I catch those architecture-level problems at the conceptual level, saving me time and energy and breaking the loop.
 
@@ -25,6 +25,6 @@ I always write with a pen, because pencil is too temporary and allows me to jot 
 
 Which is a fancy way of saying "I don't want to scribble out anything in my notebook, so I think about what I'm going to write."
 
-You can't scribble out code. There's no reason to think everything through, because it's too easy just to delete it and start over _again_. So when you're stuck in that write, think, delete-it-all loop, take a breath and pull out a pen and paper.
+You can't scribble out code. There's no motivation to think everything through, because it's just too easy to delete it and start over _again_. So when you're stuck in that write, think, delete-it-all loop, take a breath and pull out a pen and paper.
 
 You're welcome. 😉
