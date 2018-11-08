@@ -25,6 +25,6 @@ I always write with a pen, because pencil is too temporary and allows me to jot 
 
 Which is a fancy way of saying "I don't want to scribble out anything in my notebook, so I think about what I'm going to write."
 
-You can't scribble out code, it's too easy just to delete it. So when you're stuck in that write, think, delete-it-all loop, take a breath and pull out a pen and paper.
+You can't scribble out code. There's no reason to think everything through, because it's too easy just to delete it and start over _again_. So when you're stuck in that write, think, delete-it-all loop, take a breath and pull out a pen and paper.
 
 You're welcome. 😉
