@@ -5,7 +5,7 @@ title: About
 
 Welcome to Coding Panther, where Elliot Bonneville writes about code, mindset, lifestyle, the existence of a JavaScript consultant, and anything else he feels like sharing with the general public.
 
-He is currently available for work through his company [Panther Contracting](https://www.panthercontracting.com).
+He is currently looking to pick up a full-time contract role -- resume here: https://bit.ly/2I5QN78
 
 He is comfortable writing about himself in the third person. He enjoys writing, reading, music, and of course -- coffee, coding, and cats. 🐈
 
